@@ -9,7 +9,8 @@ site_description: >-
 
 # Repository
 repo_name: Chateautech Inc.
-repo_url: https://github.com/Chateautech 
+repo_url: https://github.com/Chateautech/chateautech.github.io/tree/master
+edit_uri: ./source
 
 # Copyright
 copyright: Copyright &copy; 2022 - Chateautech Inc.
