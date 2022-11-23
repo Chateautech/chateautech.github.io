@@ -73,10 +73,10 @@ markdown_extensions:
 extra:
   homepage: https://chateautech.github.io/
   social:
-    - icon: fontawesome/brands/slack 
-      link: images/dd
-    - icon: fontawesome/brands/docker 
-      link: images/kk
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/w_alayoubi
+    #- icon: fontawesome/brands/docker 
+      #link: images/kk
   consent:
     title: Cookie consent
     description: >- 
