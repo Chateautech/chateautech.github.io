@@ -89,6 +89,7 @@ extra:
 nav:
     - Home:
       - Home: index.md
+      - Team: the-team.md
     - Products: products.md
     - Services: services.md
     - Customers: customers.md
