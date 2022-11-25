@@ -89,9 +89,6 @@ extra:
 nav:
     - Home:
       - Home: index.md
-      - Who are we:  who-are-we.md
-      - What we do: what-we-do.md
-      - Members: the-team.md
     - Products: products.md
     - Services: services.md
     - Customers: customers.md
