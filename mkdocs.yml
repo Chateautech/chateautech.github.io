@@ -9,8 +9,8 @@ site_description: >-
 
 # Repository
 repo_name: Chateautech Inc.
-repo_url: https://github.com/Chateautech/chateautech.github.io/tree/master
-edit_uri: ./source
+repo_url: https://github.com/Chateautech/
+edit_uri: https://github.com/Chateautech/chateautech.github.io/tree/master/source
 
 # Copyright
 copyright: Copyright &copy; 2022 - Chateautech Inc.
@@ -78,20 +78,28 @@ extra:
     #- icon: fontawesome/brands/docker 
       #link: images/kk
   consent:
-    title: Cookie consent
+    title: Important Notices
     description: >- 
-      We use cookies to recognize your repeated visits and preferences, as well
+      <p style='text-align: justify;'><b>User agreement:</b></p>
+      <p style='text-align: justify;'>Chateautech Inc. website User Agreement shall be applicable to all users of this website. 
+      Any use of this website shall be interpreted as your agreement and acknowledgment that you will be bound by such User Agreement.</p>
+      <p style='text-align: justify;'>Full User Agreement and Terms of using this website can be read on the Terms/Legal Notice page of our website.</p>
+
+      <p style='text-align: justify;'><b>Cookie consent:</b></p>
+      <p style='text-align: justify;'>We use cookies to recognize your repeated visits and preferences, as well
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
-      make our documentation better..
+      make our documentation better.</p>
+      
+      
   generator: false
 
 nav:
-    - Home:
-      - Home: index.md
-      - Team: the-team.md
-    - Products: products.md
+    - Home: index.md
     - Services: services.md
+    - Impelemnations: impelemnations.md
     - Customers: customers.md
     - Partners: partners.md
+    - Team: the-team.md
     - Contact us: contact-us.md
+    - Terms/Legal Notice: terms.md
