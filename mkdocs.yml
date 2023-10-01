@@ -54,7 +54,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  favicon: assets/favicon.png
+  favicon: img/favicon.ico
   icon:
     logo: logo
     repo: fontawesome/brands/github
@@ -98,8 +98,11 @@ nav:
     - Home: index.md
     - Services: services.md
     - Impelemnations: impelemnations.md
-    - Customers: customers.md
-    - Partners: partners.md
-    - Team: the-team.md
+    - Customers:
+      - CleanFuture: cleanfuture.md
+      - Diripro: diripro.md
+    - Partners: 
+      - Tech Minds Consulting: techminds.md
+    #- Team: the-team.md
     - Contact us: contact-us.md
     - Terms/Legal Notice: terms.md
