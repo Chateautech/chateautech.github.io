@@ -1,11 +1,11 @@
 # Project information
 site_name: Chateautech Inc.
-site_author: Wasim Alayoubi
-site_url: https://chateautech.github.io/
+site_author: Chateautech Inc.
+site_url: https://www.chateautech.com/
 docs_dir: ./source
 site_dir: ./docs
 site_description: >-
-  Chateautech Inc. a Canadaian Corporation
+  We are your gateway to innovative solutions.
 
 # Repository
 repo_name: Chateautech Inc.
@@ -13,7 +13,7 @@ repo_url: https://github.com/Chateautech/
 edit_uri: https://github.com/Chateautech/chateautech.github.io/tree/master/source
 
 # Copyright
-copyright: Copyright &copy; 2022 - Chateautech Inc.
+copyright: Copyright &copy; 2023 - Chateautech Inc.
 
 # Configuration
 theme:
