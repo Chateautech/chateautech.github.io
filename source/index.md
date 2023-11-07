@@ -3,10 +3,7 @@ title: .::Chateautech Inc.
 ---
 #
 
-## We are at Gitex 2023,  [read more](gitex-2023.md)
-
-
-## Welcome to Chateautech
+## Chateautech
 <blockquote style="text-align: justify;">
 We are your gateway to innovative solutions. At Chateautech, we excel in implementing cutting-edge platforms to drive efficiency, connectivity, and digital transformation. We empower organizations to harness the full potential of technology, streamline operations, and achieve their goals. Explore how Chateautech's expertise can shape your future success.
 </blockquote>
