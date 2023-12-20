@@ -99,6 +99,7 @@ nav:
     - Services: services.md
     - Customers:
       - CleanFuture: cleanfuture.md
+      - LGF: lgf.md
       - Diripro: diripro.md
     - Partners: 
       - Tech Minds Consulting: techminds.md
