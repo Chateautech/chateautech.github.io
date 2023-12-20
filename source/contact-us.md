@@ -1,10 +1,10 @@
 ---
-title: .::Chateautech Inc.
+title: Chateautech Inc.
 ---
 #
 
 <blockquote style="text-align: justify;">
-<p>Email: wasim.alayoubi@chateautech.com</p>
+<p>Email: info@chateautech.com</p>
 <p>Telephone: +1 - 514 885 7477</p>
 <p>Address: 73 Rue des Bouleaux, Chateauguay QC, J6K0H3</p>
 </blockquote>

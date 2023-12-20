@@ -1,5 +1,5 @@
 ---
-title: .::Chateautech Inc.
+title: Chateautech Inc.
 ---
 #
 
